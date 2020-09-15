@@ -13,7 +13,7 @@
     justify-content: center;
     top: 0%;
     height: 100%;
-    gap: 24px;
+
     writing-mode: vertical-rl;
       z-index: 10000;
   }
