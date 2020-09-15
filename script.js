@@ -29,6 +29,7 @@
   display: inline-block
   position: relative;
   border: 1px solid transparent;
+  margin-left: 20px;
   
   }
   
