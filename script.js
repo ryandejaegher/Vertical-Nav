@@ -17,12 +17,10 @@
     writing-mode: vertical-rl;
       z-index: 10000;
   }
-  .vertical-nav a {
-      margin-left: 20px;
-  }
 
-
-  
+::slotted(* + *) {
+    margin-left: 20px;
+}  
   a:-webkit-any-link {
   text-decoration: none;
   }
