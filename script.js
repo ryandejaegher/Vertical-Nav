@@ -21,12 +21,13 @@
   a:-webkit-any-link {
   text-decoration: none;
   }
-  
+  ::slotted(*)
+
   ::slotted(*) {
   display: inline-block
   position: relative;
   border: 1px solid transparent;
-  margin-top: 20px;
+  
   }
   
   ::slotted(*:hover){
