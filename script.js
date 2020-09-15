@@ -17,14 +17,15 @@
     writing-mode: vertical-rl;
       z-index: 10000;
   }
+  .vertical-nav > * + *{
+      margin-top: 2
+  }
   
   a:-webkit-any-link {
   text-decoration: none;
   }
   
-  :host(* > * + *) {
-      margin-top: 20px;
-  }
+ 
 
   ::slotted(*) {
   display: inline-block
