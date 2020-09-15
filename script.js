@@ -21,7 +21,6 @@
   
   a:-webkit-any-link {
   text-decoration: none;
-  margin-left: 20px;
   }
   
  
