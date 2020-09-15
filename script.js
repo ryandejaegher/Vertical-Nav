@@ -7,8 +7,8 @@
   :host {
   display: block;
   }
-  :host > * + * {
-    margin-left: 20px;
+  :hostv > * + * {
+    margin-top: 20px;
 }
   .vertical-nav {
     position: fixed;
