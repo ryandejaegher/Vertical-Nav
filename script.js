@@ -17,7 +17,7 @@
       z-index: 10000;
   }
 
-  .vertical-nav > * + * {
+  vertical-nav > * + * {
       margin-left: 20px;
   }
   
