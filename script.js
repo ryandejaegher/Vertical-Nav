@@ -31,7 +31,7 @@
   border: 1px solid transparent;
   }
 
-  ::slotted(a:first-of-type) {
+  ::slotted(a:not(first-of-type)) {
     margin-top: 20px;
   }
   
