@@ -8,7 +8,6 @@
   display: block;
   }
 
- 
 
   .vertical-nav {
     position: fixed;
