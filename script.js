@@ -8,11 +8,7 @@
   display: block;
   }
 
-  @media(min-width: 768px) {
-    :host {
-      background: red;
-    }
-  }
+ 
 
   .vertical-nav {
     position: fixed;
