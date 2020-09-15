@@ -17,8 +17,9 @@
       z-index: 10000;
   }
 
-  vertical-nav > * + * {
+  .vertical-nav > * + * {
       margin-left: 20px;
+      display: inline-block;
   }
   
   a:-webkit-any-link {
