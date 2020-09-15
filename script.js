@@ -47,6 +47,12 @@
   .right {
   right: 5%;
   }
+
+  @media(min-width:768px) {
+    :host {
+    display: block;
+    }
+}
   
   </style>
   <div class="vertical-nav">
