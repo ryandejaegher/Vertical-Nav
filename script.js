@@ -31,7 +31,7 @@
   border: 1px solid transparent;
   }
 
-  a {
+  ::slotted(a) {
     margin-top: 20px;
   }
   
