@@ -17,10 +17,7 @@
     writing-mode: vertical-rl;
       z-index: 10000;
   }
-
-::slotted(* + *) {
-    margin-left: 20px;
-}  
+  
   a:-webkit-any-link {
   text-decoration: none;
   }
@@ -29,6 +26,7 @@
   display: inline-block
   position: relative;
   border: 1px solid transparent;
+  margin-left: 20
   }
   
   ::slotted(*:hover){
