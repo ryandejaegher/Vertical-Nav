@@ -8,7 +8,7 @@
   display: none;
   }
 
-
+// YO
   .vertical-nav {
     position: fixed;
     display: flex;
