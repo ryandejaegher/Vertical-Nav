@@ -21,9 +21,8 @@
   a:-webkit-any-link {
   text-decoration: none;
   }
-  ::slotted(* + *) {
-      margin-top: 20px;
-  }
+  
+  :host(* > *)
 
   ::slotted(*) {
   display: inline-block
