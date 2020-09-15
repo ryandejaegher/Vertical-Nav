@@ -18,7 +18,7 @@
       z-index: 10000;
   }
   .vertical-nav > * + *{
-      margin-top: 2
+      margin-top: 20px;
   }
   
   a:-webkit-any-link {
