@@ -7,9 +7,7 @@
   :host {
   display: block;
   }
-  :host > * + * {
-    padding-left 20px;
-}
+
   .vertical-nav {
     position: fixed;
     display: flex;
