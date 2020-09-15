@@ -13,10 +13,12 @@
     display: flex;
     justify-content: center;
     top: 0;
-
     height: 100%;
     writing-mode: vertical-rl;
       z-index: 10000;
+  }
+  .vertical-nav a {
+      margin-left: 20px;
   }
 
 
