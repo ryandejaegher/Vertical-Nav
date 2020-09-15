@@ -17,12 +17,11 @@
     writing-mode: vertical-rl;
       z-index: 10000;
   }
-  slot > * + *{
-      margin-top: 20px;
-  }
+  
   
   a:-webkit-any-link {
   text-decoration: none;
+  margin-left: 20px;
   }
   
  
