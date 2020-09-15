@@ -17,7 +17,7 @@
     writing-mode: vertical-rl;
       z-index: 10000;
   }
-  slot{
+  slot > * + *{
       margin-top: 20px;
   }
   
