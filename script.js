@@ -11,15 +11,13 @@
     position: fixed;
     display: flex;
     justify-content: center;
-    top: 0%;
+    top: 0;
     height: 100%;
     writing-mode: vertical-rl;
       z-index: 10000;
   }
 
-  vertical-nav > * + * {
-      margin-left: 20px;
-  }
+
   
   a:-webkit-any-link {
   text-decoration: none;
