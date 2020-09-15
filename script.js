@@ -8,6 +8,12 @@
   display: block;
   }
 
+  @media(min-width: 768px) {
+    :host {
+      display: none;
+    }
+  }
+
   .vertical-nav {
     position: fixed;
     display: flex;
