@@ -8,7 +8,7 @@
   display: block;
   }
   :host > * + * {
-    pleft 20px;
+    padding-left 20px;
 }
   .vertical-nav {
     position: fixed;
