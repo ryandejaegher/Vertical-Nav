@@ -19,7 +19,6 @@
 
   .vertical-nav > * + * {
       margin-left: 20px;
-      display: inline-block;
   }
   
   a:-webkit-any-link {
