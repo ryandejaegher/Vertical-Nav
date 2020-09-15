@@ -17,7 +17,7 @@
     writing-mode: vertical-rl;
       z-index: 10000;
   }
-  .vertical-nav > * + *{
+  slot{
       margin-top: 20px;
   }
   
