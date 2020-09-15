@@ -26,7 +26,7 @@
   display: inline-block
   position: relative;
   border: 1px solid transparent;
-  margin-top: 20px
+  margin-top: 20px;
   }
   
   ::slotted(*:hover){
