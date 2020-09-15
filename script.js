@@ -21,7 +21,7 @@
   a:-webkit-any-link {
   text-decoration: none;
   }
-  ::slotted(* > * + *) {
+  ::slotted(* + *) {
       margin-top: 20px;
   }
 
