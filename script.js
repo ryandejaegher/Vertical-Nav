@@ -22,7 +22,9 @@
   text-decoration: none;
   }
   
-  :host(* > *)
+  :host(* > * + *) {
+      margin-top: 20px;
+  }
 
   ::slotted(*) {
   display: inline-block
